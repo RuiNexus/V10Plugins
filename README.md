@@ -26,7 +26,7 @@ V10Plugins 由 RuiNexus 发起和维护，主要收集、整理并持续开发�
 
 | 插件名称 | 类别 | 标识符 | 功能描述 | 状态 | 平替的插件名称 |
 |------|------|------|------|------|------|
-| 商品多语言翻译 | 插件 | ruinexus_product_translation | 商品信息支持多语言设置，同步会员中心实现商品描述及配置的多语言切换 | 开发中 | [商品多语言（付费）](https://my.idcsmart.com/shop/shop_detail.html?id=2035) |
+| 商品多语言翻译 | 插件 | ruinexus_product_translation | 商品信息支持多语言设置，同步会员中心实现商品描述及配置的多语言切换 | 开发中 | [商品多语言](https://my.idcsmart.com/shop/shop_detail.html?id=2035) |
 
 *更多插件正在陆续添加，欢迎持续关注和贡献。*
 
